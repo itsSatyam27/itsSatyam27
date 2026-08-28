@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<img src="./profile/banner.svg?v=5" alt="Satyam Pandey — Software Developer" width="100%"/>
+<img src="./profile/banner.svg?v=2" alt="Satyam Pandey — Software Developer" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./profile/satyam-lanyard.svg?v=1" alt="Satyam Pandey ID badge" width="330"/>
+<img src="./profile/satyam-lanyard.svg?v=2" alt="Satyam Pandey ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -21,14 +21,11 @@
 
 | 🔧 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [💬 Novyn — Real-time Chat](https://github.com/itsSatyam27/novyn-chat) | `Dart` `React` `Node.js` `Socket.IO` | 0 |
+| [💬 Novyn — Real-time Chat](https://github.com/itsSatyam27/novyn-chat) | `Dart` `Node.js` `Socket.IO` | 0 |
 | [🤖 Lumi — AI Voice Assistant](https://github.com/itsSatyam27/Lumi-Voice-Assist) | `Python` `OpenCV` `AI` | 0 |
-| [📚 Student Dashboard](https://github.com/itsSatyam27/student-dashboard) | `CSS` `JavaScript` `HTML` | 0 |
-| [⚡ SkipQ — Queue Experience](https://github.com/itsSatyam27/SkipQ) | `JavaScript` `Web` | 0 |
-| [💸 NexSpend — Finance App](https://github.com/itsSatyam27/NexSpend-finance-app) | `JavaScript` | 0 |
+| [📚 Student Dashboard](https://github.com/itsSatyam27/student-dashboard) | `CSS` `JavaScript` | 0 |
+| [⚡ SkipQ — Queue Experience](https://github.com/itsSatyam27/SkipQ) | `JavaScript` `UX` | 0 |
 | [🧠 Face Recognition AI](https://github.com/itsSatyam27/FACE-Recog-with-AI) | `JavaScript` `AI` | 0 |
-| [📄 CV & Resume Maker](https://github.com/itsSatyam27/CV-and-Resume-Maker) | `JavaScript` | 0 |
-| [🌤️ Weather App](https://github.com/itsSatyam27/weather-app) | `JavaScript` | 0 |
 
 <br/>
 
@@ -44,8 +41,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./profile/satyam-stats.svg?v=1" alt="GitHub Stats" height="185"/>
-<img src="./profile/satyam-langs.svg?v=1" alt="Top Languages" height="185"/>
+<img src="./profile/satyam-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./profile/satyam-langs.svg?v=2" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -58,14 +55,14 @@
 
 <br/><br/>
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./profile/satyam-trophies.svg?v=1" alt="Trophies" width="95%"/>
+<!-- 🏆 Trophies -->
+<img src="./profile/satyam-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
 ### 🧩 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,socketio,mongodb,postgresql,firebase,redis,docker,git,github&perline=9" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,socketio,mongodb,postgresql,firebase,docker,git,github&perline=8" alt="Tech stack"/>
 
 <br/><br/>
 
@@ -82,5 +79,10 @@
 <br/><br/>
 
 *⚡ Always learning. Always building.* 💙
+
+<br/>
+
+<!-- Wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22D3EE,50:4F46E5,100:0B1220" width="100%"/>
 
 </div>

@@ -13,87 +13,77 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <stop offset="50%" stop-color="#fff" stop-opacity=".06"/>
   <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
 </linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <clipPath id="tc"><rect x="0" y="0" width="1092" height="168" rx="14"/></clipPath>
 </defs>
 
-<!-- Trophy 1: Builder — most repos in JS -->
-<g class="cell" style="animation-delay:0.30s">
-  <rect x="12" y="12" width="158" height="144" rx="14" fill="#0B1220" stroke="#22d3ee" stroke-opacity=".55" stroke-width="1.3"/>
-  <text x="91" y="50" text-anchor="middle" font-size="30">🏗️</text>
-  <text class="rk" x="154" y="38" text-anchor="end" font-size="22" font-weight="bold" fill="#22d3ee" style="animation-delay:0.70s">SSS</text>
-  <text x="91" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">Builder</text>
-  <text x="91" y="108" text-anchor="middle" font-size="11" fill="#64748b">12 public repos</text>
-  <rect x="28" y="122" width="126" height="5" rx="2.5" fill="#1e2d40"/>
-  <rect x="28" y="122" width="0" height="5" rx="2.5" fill="#22d3ee">
-    <animate attributeName="width" from="0" to="126" dur="1s" begin="0.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-  </rect>
+<!-- Helper: dot rating macro via repeated use -->
+<!-- Trophy 1: Builder — 12 repos — SSS -->
+<g class="cell" style="animation-delay:0.20s">
+  <rect x="12" y="12" width="164" height="144" rx="14" fill="#0B1220" stroke="#22d3ee" stroke-opacity=".6" stroke-width="1.4"/>
+  <text x="94" y="50" text-anchor="middle" font-size="28">🏗️</text>
+  <text class="rk" x="160" y="36" text-anchor="end" font-size="20" font-weight="bold" fill="#22d3ee" filter="url(#glow)">SSS</text>
+  <text x="94" y="86" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">Builder</text>
+  <text x="94" y="104" text-anchor="middle" font-size="11" fill="#64748b">12 public repos</text>
+  <!-- dot rating: 5/5 -->
+  <circle cx="60" cy="126" r="5" fill="#22d3ee"/><circle cx="76" cy="126" r="5" fill="#22d3ee"/><circle cx="92" cy="126" r="5" fill="#22d3ee"/><circle cx="108" cy="126" r="5" fill="#22d3ee"/><circle cx="124" cy="126" r="5" fill="#22d3ee"/>
 </g>
 
-<!-- Trophy 2: Polyglot — 4 languages -->
-<g class="cell" style="animation-delay:0.48s">
-  <rect x="182" y="12" width="158" height="144" rx="14" fill="#0B1220" stroke="#fde047" stroke-opacity=".55" stroke-width="1.3"/>
-  <text x="261" y="50" text-anchor="middle" font-size="30">🌐</text>
-  <text class="rk" x="324" y="38" text-anchor="end" font-size="28" font-weight="bold" fill="#fde047" style="animation-delay:0.88s">A</text>
-  <text x="261" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">Polyglot Dev</text>
-  <text x="261" y="108" text-anchor="middle" font-size="11" fill="#64748b">JS · Python · Dart · CSS</text>
-  <rect x="198" y="122" width="126" height="5" rx="2.5" fill="#1e2d40"/>
-  <rect x="198" y="122" width="0" height="5" rx="2.5" fill="#fde047">
-    <animate attributeName="width" from="0" to="90" dur="1s" begin="0.78s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-  </rect>
+<!-- Trophy 2: Polyglot — 4 langs — A -->
+<g class="cell" style="animation-delay:0.36s">
+  <rect x="188" y="12" width="164" height="144" rx="14" fill="#0B1220" stroke="#fde047" stroke-opacity=".6" stroke-width="1.4"/>
+  <text x="270" y="50" text-anchor="middle" font-size="28">🌐</text>
+  <text class="rk" x="336" y="36" text-anchor="end" font-size="26" font-weight="bold" fill="#fde047" filter="url(#glow)">A</text>
+  <text x="270" y="86" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">Polyglot Dev</text>
+  <text x="270" y="104" text-anchor="middle" font-size="11" fill="#64748b">JS · Python · Dart · CSS</text>
+  <!-- dot rating: 4/5 -->
+  <circle cx="236" cy="126" r="5" fill="#fde047"/><circle cx="252" cy="126" r="5" fill="#fde047"/><circle cx="268" cy="126" r="5" fill="#fde047"/><circle cx="284" cy="126" r="5" fill="#fde047"/><circle cx="300" cy="126" r="5" fill="#1e2d40"/>
 </g>
 
-<!-- Trophy 3: Full-Stack -->
-<g class="cell" style="animation-delay:0.66s">
-  <rect x="352" y="12" width="158" height="144" rx="14" fill="#0B1220" stroke="#818cf8" stroke-opacity=".55" stroke-width="1.3"/>
-  <text x="431" y="50" text-anchor="middle" font-size="30">⚡</text>
-  <text class="rk" x="494" y="38" text-anchor="end" font-size="28" font-weight="bold" fill="#818cf8" style="animation-delay:1.06s">S</text>
-  <text x="431" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">Full-Stack</text>
-  <text x="431" y="108" text-anchor="middle" font-size="11" fill="#64748b">React + Node.js</text>
-  <rect x="368" y="122" width="126" height="5" rx="2.5" fill="#1e2d40"/>
-  <rect x="368" y="122" width="0" height="5" rx="2.5" fill="#818cf8">
-    <animate attributeName="width" from="0" to="110" dur="1s" begin="0.96s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-  </rect>
+<!-- Trophy 3: Full-Stack — S -->
+<g class="cell" style="animation-delay:0.52s">
+  <rect x="364" y="12" width="164" height="144" rx="14" fill="#0B1220" stroke="#818cf8" stroke-opacity=".6" stroke-width="1.4"/>
+  <text x="446" y="50" text-anchor="middle" font-size="28">⚡</text>
+  <text class="rk" x="512" y="36" text-anchor="end" font-size="26" font-weight="bold" fill="#818cf8" filter="url(#glow)">S</text>
+  <text x="446" y="86" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">Full-Stack</text>
+  <text x="446" y="104" text-anchor="middle" font-size="11" fill="#64748b">React + Node.js</text>
+  <!-- dot rating: 5/5 -->
+  <circle cx="412" cy="126" r="5" fill="#818cf8"/><circle cx="428" cy="126" r="5" fill="#818cf8"/><circle cx="444" cy="126" r="5" fill="#818cf8"/><circle cx="460" cy="126" r="5" fill="#818cf8"/><circle cx="476" cy="126" r="5" fill="#818cf8"/>
 </g>
 
-<!-- Trophy 4: AI Builder -->
+<!-- Trophy 4: AI Builder — A -->
+<g class="cell" style="animation-delay:0.68s">
+  <rect x="540" y="12" width="164" height="144" rx="14" fill="#0B1220" stroke="#4ade80" stroke-opacity=".6" stroke-width="1.4"/>
+  <text x="622" y="50" text-anchor="middle" font-size="28">🤖</text>
+  <text class="rk" x="688" y="36" text-anchor="end" font-size="26" font-weight="bold" fill="#4ade80" filter="url(#glow)">A</text>
+  <text x="622" y="86" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">AI Builder</text>
+  <text x="622" y="104" text-anchor="middle" font-size="11" fill="#64748b">Lumi · Face Recog</text>
+  <!-- dot rating: 4/5 -->
+  <circle cx="588" cy="126" r="5" fill="#4ade80"/><circle cx="604" cy="126" r="5" fill="#4ade80"/><circle cx="620" cy="126" r="5" fill="#4ade80"/><circle cx="636" cy="126" r="5" fill="#4ade80"/><circle cx="652" cy="126" r="5" fill="#1e2d40"/>
+</g>
+
+<!-- Trophy 5: CS Student — S -->
 <g class="cell" style="animation-delay:0.84s">
-  <rect x="522" y="12" width="158" height="144" rx="14" fill="#0B1220" stroke="#4ade80" stroke-opacity=".55" stroke-width="1.3"/>
-  <text x="601" y="50" text-anchor="middle" font-size="30">🤖</text>
-  <text class="rk" x="664" y="38" text-anchor="end" font-size="28" font-weight="bold" fill="#4ade80" style="animation-delay:1.24s">A</text>
-  <text x="601" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">AI Builder</text>
-  <text x="601" y="108" text-anchor="middle" font-size="11" fill="#64748b">Lumi · Face Recog</text>
-  <rect x="538" y="122" width="126" height="5" rx="2.5" fill="#1e2d40"/>
-  <rect x="538" y="122" width="0" height="5" rx="2.5" fill="#4ade80">
-    <animate attributeName="width" from="0" to="85" dur="1s" begin="1.14s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-  </rect>
+  <rect x="716" y="12" width="164" height="144" rx="14" fill="#0B1220" stroke="#f97316" stroke-opacity=".6" stroke-width="1.4"/>
+  <text x="798" y="50" text-anchor="middle" font-size="28">🎓</text>
+  <text class="rk" x="864" y="36" text-anchor="end" font-size="26" font-weight="bold" fill="#f97316" filter="url(#glow)">S</text>
+  <text x="798" y="86" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">CS Student</text>
+  <text x="798" y="104" text-anchor="middle" font-size="11" fill="#64748b">BTech CSE · SOU</text>
+  <!-- dot rating: 5/5 -->
+  <circle cx="764" cy="126" r="5" fill="#f97316"/><circle cx="780" cy="126" r="5" fill="#f97316"/><circle cx="796" cy="126" r="5" fill="#f97316"/><circle cx="812" cy="126" r="5" fill="#f97316"/><circle cx="828" cy="126" r="5" fill="#f97316"/>
 </g>
 
-<!-- Trophy 5: CSE Student -->
-<g class="cell" style="animation-delay:1.02s">
-  <rect x="692" y="12" width="158" height="144" rx="14" fill="#0B1220" stroke="#f97316" stroke-opacity=".55" stroke-width="1.3"/>
-  <text x="771" y="50" text-anchor="middle" font-size="30">🎓</text>
-  <text class="rk" x="834" y="38" text-anchor="end" font-size="28" font-weight="bold" fill="#f97316" style="animation-delay:1.42s">S</text>
-  <text x="771" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">CS Student</text>
-  <text x="771" y="108" text-anchor="middle" font-size="11" fill="#64748b">BTech CSE · SOU</text>
-  <rect x="708" y="122" width="126" height="5" rx="2.5" fill="#1e2d40"/>
-  <rect x="708" y="122" width="0" height="5" rx="2.5" fill="#f97316">
-    <animate attributeName="width" from="0" to="100" dur="1s" begin="1.32s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-  </rect>
+<!-- Trophy 6: UI/UX — A -->
+<g class="cell" style="animation-delay:1.00s">
+  <rect x="892" y="12" width="188" height="144" rx="14" fill="#0B1220" stroke="#67e8f9" stroke-opacity=".6" stroke-width="1.4"/>
+  <text x="986" y="50" text-anchor="middle" font-size="28">🎨</text>
+  <text class="rk" x="1064" y="36" text-anchor="end" font-size="26" font-weight="bold" fill="#67e8f9" filter="url(#glow)">A</text>
+  <text x="986" y="86" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">UI/UX Dev</text>
+  <text x="986" y="104" text-anchor="middle" font-size="11" fill="#64748b">Creative Development</text>
+  <!-- dot rating: 4/5 -->
+  <circle cx="952" cy="126" r="5" fill="#67e8f9"/><circle cx="968" cy="126" r="5" fill="#67e8f9"/><circle cx="984" cy="126" r="5" fill="#67e8f9"/><circle cx="1000" cy="126" r="5" fill="#67e8f9"/><circle cx="1016" cy="126" r="5" fill="#1e2d40"/>
 </g>
 
-<!-- Trophy 6: UI/UX -->
-<g class="cell" style="animation-delay:1.20s">
-  <rect x="862" y="12" width="218" height="144" rx="14" fill="#0B1220" stroke="#67e8f9" stroke-opacity=".55" stroke-width="1.3"/>
-  <text x="971" y="50" text-anchor="middle" font-size="30">🎨</text>
-  <text class="rk" x="1064" y="38" text-anchor="end" font-size="28" font-weight="bold" fill="#67e8f9" style="animation-delay:1.60s">A</text>
-  <text x="971" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#e6edf3">UI/UX Dev</text>
-  <text x="971" y="108" text-anchor="middle" font-size="11" fill="#64748b">Creative Development</text>
-  <rect x="878" y="122" width="186" height="5" rx="2.5" fill="#1e2d40"/>
-  <rect x="878" y="122" width="0" height="5" rx="2.5" fill="#67e8f9">
-    <animate attributeName="width" from="0" to="90" dur="1s" begin="1.50s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-  </rect>
-</g>
-
-<!-- shine sweep across all cells -->
+<!-- shine sweep -->
 <g clip-path="url(#tc)"><rect class="sh2" x="0" y="0" width="140" height="168" fill="url(#shg2)"/></g>
 </svg>
