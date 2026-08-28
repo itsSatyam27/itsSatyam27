@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="GitHub overview for itsSatyam27">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#172554"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect width="900" height="220" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="898" height="218" rx="18" fill="none" stroke="#334155"/>
+<text x="42" y="48" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">GitHub Overview</text>
+<text x="42" y="73" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="13">itsSatyam27 • software development &amp; project building</text>
+<rect x="42" y="96" width="4" height="82" rx="2" fill="url(#line)"/>
+<text x="70" y="119" fill="#e2e8f0" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700">FOCUS</text>
+<text x="70" y="143" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="14">Full-Stack • DSA • Backend • AI</text>
+<text x="70" y="169" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="14">Building real-world applications</text>
+<line x1="410" y1="104" x2="410" y2="180" stroke="#334155"/>
+<text x="450" y="119" fill="#e2e8f0" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700">FEATURED BUILDS</text>
+<text x="450" y="145" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="15">Novyn</text><text x="610" y="145" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="13">Real-time communication</text>
+<text x="450" y="169" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="15">Lumi</text><text x="610" y="169" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="13">AI voice assistant</text>
+</svg>
