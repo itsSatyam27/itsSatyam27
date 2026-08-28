@@ -21,11 +21,14 @@
 
 | 🔧 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [💬 Novyn — Real-time Chat](https://github.com/itsSatyam27/novyn-chat) | `React` `Node.js` `Socket.IO` `MongoDB` | 8 |
-| [🤖 Lumi — AI Voice Assistant](https://github.com/itsSatyam27/Lumi-Voice-Assist) | `Python` `OpenCV` `AI` | 5 |
-| [📚 Student Dashboard](https://github.com/itsSatyam27/student-dashboard) | `JavaScript` `HTML` `CSS` | 4 |
-| [⚡ SkipQ — Queue Experience](https://github.com/itsSatyam27/SkipQ) | `Web` `UX` `Product` | 3 |
-| [💸 NexSpend — Finance App](https://github.com/itsSatyam27/NexSpend-finance-app) | `JavaScript` `CSS` | 2 |
+| [💬 Novyn — Real-time Chat](https://github.com/itsSatyam27/novyn-chat) | `Dart` `React` `Node.js` `Socket.IO` | 0 |
+| [🤖 Lumi — AI Voice Assistant](https://github.com/itsSatyam27/Lumi-Voice-Assist) | `Python` `OpenCV` `AI` | 0 |
+| [📚 Student Dashboard](https://github.com/itsSatyam27/student-dashboard) | `CSS` `JavaScript` `HTML` | 0 |
+| [⚡ SkipQ — Queue Experience](https://github.com/itsSatyam27/SkipQ) | `JavaScript` `Web` | 0 |
+| [💸 NexSpend — Finance App](https://github.com/itsSatyam27/NexSpend-finance-app) | `JavaScript` | 0 |
+| [🧠 Face Recognition AI](https://github.com/itsSatyam27/FACE-Recog-with-AI) | `JavaScript` `AI` | 0 |
+| [📄 CV & Resume Maker](https://github.com/itsSatyam27/CV-and-Resume-Maker) | `JavaScript` | 0 |
+| [🌤️ Weather App](https://github.com/itsSatyam27/weather-app) | `JavaScript` | 0 |
 
 <br/>
 
@@ -57,12 +60,6 @@
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
 <img src="./profile/satyam-trophies.svg?v=1" alt="Trophies" width="95%"/>
-
-<br/><br/>
-
-### 🐍 Watch the snake eat my contributions
-
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/output/github-snake-dark.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
