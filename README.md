@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/banner.svg?v=3" alt="Satyam Pandey — Software Developer" width="100%"/>
+<!-- ✨ Animated Banner ✨ -->
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/97a31882ba4ac28695d42ba89fae31af63849976/profile/banner.svg?v=4" alt="Satyam Pandey — Software Developer" width="100%"/>
 
 </div>
 
@@ -10,6 +11,7 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
+<!-- 🪪 Swinging Lanyard ID Card -->
 <img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-lanyard.svg?v=2" alt="Satyam Pandey ID badge" width="330"/>
 
 </td>
@@ -48,10 +50,12 @@
 
 <br/><br/>
 
+<!-- 📈 Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSatyam27&bg_color=0B1220&color=CBD5E1&line=22D3EE&point=818CF8&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph%20⚡" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
+<!-- 🏆 Trophies -->
 <img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
 <br/><br/>
@@ -78,6 +82,7 @@
 
 <br/>
 
+<!-- Wave footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22D3EE,50:4F46E5,100:0B1220" width="100%"/>
 
 </div>
