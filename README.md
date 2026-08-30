@@ -12,7 +12,7 @@
 <td width="36%" align="center" valign="middle">
 
 <!-- 🪪 Developer ID — avatar2 -->
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-lanyard-avatar2.svg?v=1" alt="Satyam Pandey Developer ID" width="100%"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-lanyard.svg?v=1" alt="Satyam Pandey Developer ID" width="100%"/>
 
 </td>
 <td width="64%" align="center" valign="middle">
