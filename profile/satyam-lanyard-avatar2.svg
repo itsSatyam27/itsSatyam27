@@ -27,7 +27,15 @@
 <circle cx="220" cy="256" r="80" fill="#060c18"/>
 <circle cx="220" cy="256" r="77" fill="none" stroke="url(#border)" stroke-width="3"/>
 <circle cx="220" cy="256" r="72" fill="#0b1220"/>
-<image href="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/avatar2.png" x="148" y="184" width="144" height="144" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar)"/>
+<image
+  href="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/avatar.png"
+  x="148"
+  y="184"
+  width="144"
+  height="144"
+  preserveAspectRatio="xMidYMid slice"
+  clip-path="url(#avatar)"
+/>
 
 <text x="220" y="365" text-anchor="middle" font-size="21" font-weight="800" fill="#22d3ee">SATYAM PANDEY</text>
 <text x="220" y="389" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#67e8f9" letter-spacing="1">FULL-STACK DEVELOPER</text>
