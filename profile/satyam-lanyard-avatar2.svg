@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 600" width="440" height="600" role="img" aria-label="Satyam Pandey developer ID badge">
+<title>Satyam Pandey — developer ID badge</title>
+<defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'SFMono-Regular',Consolas,monospace}</style>
+<linearGradient id="strap" x1="0" x2="1"><stop stop-color="#1e3a5f"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#1e3a5f"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d1a"/><stop offset=".5" stop-color="#0e172e"/><stop offset="1" stop-color="#091124"/></linearGradient>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#818cf8"/><stop offset="1" stop-color="#4f46e5"/></linearGradient>
+<clipPath id="avatar"><circle cx="220" cy="256" r="72"/></clipPath>
+<filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity=".65"/></filter>
+</defs>
+
+<circle cx="220" cy="350" r="210" fill="#22d3ee" opacity=".06"/>
+<path d="M201 0h38l-3 82h-32z" fill="url(#strap)"/>
+<line x1="206" y1="0" x2="208.5" y2="80" stroke="#fff" stroke-opacity=".4" stroke-dasharray="4 3"/>
+<line x1="234" y1="0" x2="231.5" y2="80" stroke="#fff" stroke-opacity=".4" stroke-dasharray="4 3"/>
+<rect x="198" y="78" width="44" height="24" rx="5" fill="#9aa0b0" stroke="#4a4f5c"/>
+<rect x="209" y="84" width="22" height="6" rx="3" fill="#3c414e"/>
+<circle cx="220" cy="112" r="13" fill="none" stroke="#aeb4c0" stroke-width="5"/>
+
+<rect x="45" y="120" width="350" height="460" rx="22" fill="url(#card)" stroke="url(#border)" stroke-width="2" filter="url(#shadow)"/>
+<rect x="185" y="132" width="70" height="10" rx="5" fill="#060c18" stroke="#1e3a5f"/>
+<rect x="45" y="120" width="350" height="40" rx="22" fill="#0d1b33" opacity=".9"/>
+<rect x="45" y="140" width="350" height="20" fill="#0d1b33" opacity=".9"/>
+<text x="68" y="148" font-size="10.5" font-weight="bold" fill="#64748b" letter-spacing="2">DEVELOPER ID</text>
+<text x="372" y="148" text-anchor="end" font-size="11" font-weight="bold" fill="#22d3ee" letter-spacing="1.5">SP-2027</text>
+
+<circle cx="220" cy="256" r="80" fill="#060c18"/>
+<circle cx="220" cy="256" r="77" fill="none" stroke="url(#border)" stroke-width="3"/>
+<circle cx="220" cy="256" r="72" fill="#0b1220"/>
+<image href="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/avatar2.png" x="148" y="184" width="144" height="144" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar)"/>
+
+<text x="220" y="365" text-anchor="middle" font-size="21" font-weight="800" fill="#22d3ee">SATYAM PANDEY</text>
+<text x="220" y="389" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#67e8f9" letter-spacing="1">FULL-STACK DEVELOPER</text>
+<line x1="92" y1="405" x2="348" y2="405" stroke="#1e3a5f"/>
+
+<rect x="70" y="420" width="65" height="22" rx="11" fill="#092b38" stroke="#22d3ee"/><text x="102.5" y="435" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#67e8f9">React</text>
+<rect x="142" y="420" width="70" height="22" rx="11" fill="#171b42" stroke="#818cf8"/><text x="177" y="435" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#a5b4fc">Node.js</text>
+<rect x="219" y="420" width="67" height="22" rx="11" fill="#152d1e" stroke="#4ade80"/><text x="252.5" y="435" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#86efac">Python</text>
+<rect x="293" y="420" width="60" height="22" rx="11" fill="#302c0b" stroke="#fde047"/><text x="323" y="435" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#fde047">Dart</text>
+
+<text x="78" y="470" font-size="9" fill="#64748b" letter-spacing="1.5">BUILD · SHIP · REPEAT</text>
+<text x="362" y="470" text-anchor="end" font-size="9" font-weight="bold" fill="#22d3ee">01 / 01</text>
+<circle cx="82" cy="493" r="4" fill="#4ade80"/><text x="94" y="497" font-size="10" fill="#94a3b8">status: building products</text>
+<text x="220" y="545" text-anchor="middle" font-size="9" fill="#475569">@itsSatyam27</text>
+</svg>
