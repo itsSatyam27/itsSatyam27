@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 560" width="680" height="560" role="img" aria-label="Satyam Pandey's Featured Projects">
+<defs>
+<style><![CDATA[
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+@keyframes fadeSlide { from { opacity: 0; transform: translateX(-12px); } to { opacity: 1; transform: translateX(0); } }
+@keyframes shineX { 0% { transform: translateX(-200px) skewX(-15deg); } 60%, 100% { transform: translateX(780px) skewX(-15deg); } }
+@keyframes cardHover { 0%, 100% { opacity: 0.95; } 50% { opacity: 1; } }
+
+.prow { opacity: 0; animation: fadeSlide 0.45s ease forwards; }
+.sh { animation: shineX 5s ease-in-out 3s infinite; }
+.card-bg { transition: all 0.3s ease; }
+]]></style>
+
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#22d3ee;#818cf8;#4f46e5;#22d3ee" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#4f46e5;#22d3ee;#818cf8;#4f46e5" dur="6s" repeatCount="indefinite"/></stop>
+</linearGradient>
+
+<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#fff" stop-opacity="0.06"/>
+  <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+
+<filter id="glow">
+  <feGaussianBlur stdDeviation="2" result="b"/>
+  <feMerge>
+    <feMergeNode in="b"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<clipPath id="cc"><rect x="1" y="1" width="678" height="558" rx="16"/></clipPath>
+</defs>
+
+<!-- Outer Card -->
+<rect x="1" y="1" width="678" height="558" rx="16" fill="#0B1220" stroke="url(#tg)" stroke-width="1.5"/>
+
+<!-- Header -->
+<g transform="translate(24, 32)">
+  <text x="0" y="0" font-size="17" font-weight="bold" fill="url(#tg)">🚀 Featured Builds &amp; Projects</text>
+</g>
+
+<!-- Project 1: Novyn -->
+<a href="https://github.com/itsSatyam27/novyn-chat" target="_blank">
+  <g class="prow" style="animation-delay: 0.2s" transform="translate(24, 52)">
+    <rect class="card-bg" x="0" y="0" width="632" height="74" rx="10" fill="#0e172a" stroke="#1e293b" stroke-width="1"/>
+    <!-- Icon & Title -->
+    <text x="18" y="32" font-size="18">💬</text>
+    <text x="48" y="30" font-size="14.5" font-weight="bold" fill="#38bdf8">Novyn</text>
+    <text x="48" y="52" font-size="11.5" fill="#94a3b8">Real-time Socket.IO Chat Application</text>
+    <!-- Tech Pills -->
+    <g transform="translate(320, 18)">
+      <rect x="0" y="0" width="52" height="22" rx="6" fill="#0f2b3c" stroke="#0284c7" stroke-width="0.8"/>
+      <text x="26" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#38bdf8">Dart</text>
+
+      <rect x="58" y="0" width="68" height="22" rx="6" fill="#143127" stroke="#16a34a" stroke-width="0.8"/>
+      <text x="92" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#4ade80">Node.js</text>
+
+      <rect x="132" y="0" width="76" height="22" rx="6" fill="#2d1b4e" stroke="#9333ea" stroke-width="0.8"/>
+      <text x="170" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#c084fc">Socket.IO</text>
+    </g>
+    <!-- Domain Tag -->
+    <g transform="translate(540, 26)">
+      <rect x="0" y="0" width="80" height="22" rx="11" fill="rgba(34,211,238,0.12)" stroke="#22d3ee" stroke-width="1"/>
+      <text x="40" y="15" text-anchor="middle" font-size="10" font-weight="bold" fill="#22d3ee">Real-Time</text>
+    </g>
+  </g>
+</a>
+
+<!-- Project 2: Lumi -->
+<a href="https://github.com/itsSatyam27/Lumi-Voice-Assist" target="_blank">
+  <g class="prow" style="animation-delay: 0.4s" transform="translate(24, 134)">
+    <rect class="card-bg" x="0" y="0" width="632" height="74" rx="10" fill="#0e172a" stroke="#1e293b" stroke-width="1"/>
+    <text x="18" y="32" font-size="18">🤖</text>
+    <text x="48" y="30" font-size="14.5" font-weight="bold" fill="#818cf8">Lumi Voice Assist</text>
+    <text x="48" y="52" font-size="11.5" fill="#94a3b8">AI Voice &amp; Computer Vision Assistant</text>
+    <!-- Tech Pills -->
+    <g transform="translate(320, 18)">
+      <rect x="0" y="0" width="64" height="22" rx="6" fill="#143127" stroke="#16a34a" stroke-width="0.8"/>
+      <text x="32" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#4ade80">Python</text>
+
+      <rect x="70" y="0" width="68" height="22" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="0.8"/>
+      <text x="104" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#94a3b8">OpenCV</text>
+
+      <rect x="144" y="0" width="56" height="22" rx="6" fill="#2d1b4e" stroke="#8b5cf6" stroke-width="0.8"/>
+      <text x="172" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#a78bfa">AI / ML</text>
+    </g>
+    <!-- Domain Tag -->
+    <g transform="translate(540, 26)">
+      <rect x="0" y="0" width="80" height="22" rx="11" fill="rgba(129,140,248,0.12)" stroke="#818cf8" stroke-width="1"/>
+      <text x="40" y="15" text-anchor="middle" font-size="10" font-weight="bold" fill="#818cf8">AI &amp; Vision</text>
+    </g>
+  </g>
+</a>
+
+<!-- Project 3: Student Dashboard -->
+<a href="https://github.com/itsSatyam27/student-dashboard" target="_blank">
+  <g class="prow" style="animation-delay: 0.6s" transform="translate(24, 216)">
+    <rect class="card-bg" x="0" y="0" width="632" height="74" rx="10" fill="#0e172a" stroke="#1e293b" stroke-width="1"/>
+    <text x="18" y="32" font-size="18">📚</text>
+    <text x="48" y="30" font-size="14.5" font-weight="bold" fill="#fde047">Student Dashboard</text>
+    <text x="48" y="52" font-size="11.5" fill="#94a3b8">Interactive Academic Management Portal</text>
+    <!-- Tech Pills -->
+    <g transform="translate(320, 18)">
+      <rect x="0" y="0" width="82" height="22" rx="6" fill="#352c0f" stroke="#ca8a04" stroke-width="0.8"/>
+      <text x="41" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#fde047">JavaScript</text>
+
+      <rect x="88" y="0" width="52" height="22" rx="6" fill="#1e293b" stroke="#3b82f6" stroke-width="0.8"/>
+      <text x="114" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#60a5fa">CSS3</text>
+
+      <rect x="146" y="0" width="52" height="22" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="0.8"/>
+      <text x="172" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#cbd5e1">DOM</text>
+    </g>
+    <!-- Domain Tag -->
+    <g transform="translate(540, 26)">
+      <rect x="0" y="0" width="80" height="22" rx="11" fill="rgba(253,224,71,0.12)" stroke="#fde047" stroke-width="1"/>
+      <text x="40" y="15" text-anchor="middle" font-size="10" font-weight="bold" fill="#fde047">Frontend</text>
+    </g>
+  </g>
+</a>
+
+<!-- Project 4: SkipQ -->
+<a href="https://github.com/itsSatyam27/SkipQ" target="_blank">
+  <g class="prow" style="animation-delay: 0.8s" transform="translate(24, 298)">
+    <rect class="card-bg" x="0" y="0" width="632" height="74" rx="10" fill="#0e172a" stroke="#1e293b" stroke-width="1"/>
+    <text x="18" y="32" font-size="18">⚡</text>
+    <text x="48" y="30" font-size="14.5" font-weight="bold" fill="#38bdf8">SkipQ</text>
+    <text x="48" y="52" font-size="11.5" fill="#94a3b8">Smart Queue Experience Engine</text>
+    <!-- Tech Pills -->
+    <g transform="translate(320, 18)">
+      <rect x="0" y="0" width="82" height="22" rx="6" fill="#352c0f" stroke="#ca8a04" stroke-width="0.8"/>
+      <text x="41" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#fde047">JavaScript</text>
+
+      <rect x="88" y="0" width="56" height="22" rx="6" fill="#0f2b3c" stroke="#0284c7" stroke-width="0.8"/>
+      <text x="116" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#38bdf8">UI/UX</text>
+
+      <rect x="150" y="0" width="50" height="22" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="0.8"/>
+      <text x="175" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#cbd5e1">Web</text>
+    </g>
+    <!-- Domain Tag -->
+    <g transform="translate(540, 26)">
+      <rect x="0" y="0" width="80" height="22" rx="11" fill="rgba(56,189,248,0.12)" stroke="#38bdf8" stroke-width="1"/>
+      <text x="40" y="15" text-anchor="middle" font-size="10" font-weight="bold" fill="#38bdf8">Product UX</text>
+    </g>
+  </g>
+</a>
+
+<!-- Project 5: Face Recognition AI -->
+<a href="https://github.com/itsSatyam27/FACE-Recog-with-AI" target="_blank">
+  <g class="prow" style="animation-delay: 1.0s" transform="translate(24, 380)">
+    <rect class="card-bg" x="0" y="0" width="632" height="74" rx="10" fill="#0e172a" stroke="#1e293b" stroke-width="1"/>
+    <text x="18" y="32" font-size="18">🧠</text>
+    <text x="48" y="30" font-size="14.5" font-weight="bold" fill="#ec4899">Face Recognition AI</text>
+    <text x="48" y="52" font-size="11.5" fill="#94a3b8">Real-time Biometric Recognition System</text>
+    <!-- Tech Pills -->
+    <g transform="translate(320, 18)">
+      <rect x="0" y="0" width="64" height="22" rx="6" fill="#143127" stroke="#16a34a" stroke-width="0.8"/>
+      <text x="32" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#4ade80">Python</text>
+
+      <rect x="70" y="0" width="68" height="22" rx="6" fill="#1e293b" stroke="#64748b" stroke-width="0.8"/>
+      <text x="104" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#94a3b8">OpenCV</text>
+
+      <rect x="144" y="0" width="46" height="22" rx="6" fill="#2d1b4e" stroke="#db2777" stroke-width="0.8"/>
+      <text x="167" y="15" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#f472b6">ML</text>
+    </g>
+    <!-- Domain Tag -->
+    <g transform="translate(540, 26)">
+      <rect x="0" y="0" width="80" height="22" rx="11" fill="rgba(236,72,153,0.12)" stroke="#ec4899" stroke-width="1"/>
+      <text x="40" y="15" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#f472b6">CV &amp; Vision</text>
+    </g>
+  </g>
+</a>
+
+<!-- Bottom Quote Callout -->
+<g transform="translate(24, 474)">
+  <rect x="0" y="0" width="632" height="60" rx="10" fill="#0d1b2e" stroke="#1e3a5f" stroke-width="1"/>
+  <rect x="0" y="0" width="4" height="60" rx="2" fill="#22d3ee"/>
+  <text x="24" y="34" font-size="13" fill="#e2e8f0">
+    <tspan fill="#fde047">💡 </tspan>
+    <tspan font-style="italic">"I don't just learn technologies. I turn ideas into working products."</tspan>
+  </text>
+</g>
+
+<!-- Shine sweep effect -->
+<g clip-path="url(#cc)"><rect class="sh" x="0" y="0" width="160" height="560" fill="url(#shg)"/></g>
+</svg>

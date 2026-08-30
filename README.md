@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/banner.svg?v=8" alt="Satyam Pandey — Software Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/banner.svg?v=9" alt="Satyam Pandey — Software Developer" width="100%"/>
 
 </div>
 
@@ -9,27 +9,16 @@
 
 <table align="center" border="0">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="36%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card -->
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-lanyard.svg?v=8" alt="Satyam Pandey ID badge" width="330"/>
+<!-- 🪪 Enlarged Swinging Lanyard ID Card -->
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-lanyard.svg?v=9" alt="Satyam Pandey ID badge" width="100%"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="64%" align="center" valign="middle">
 
-### 🚀 Featured Builds & Projects
-
-| 🔧 Project | 💻 Tech Stack | 🎯 Domain |
-|:---|:---|:---:|
-| [💬 **Novyn**](https://github.com/itsSatyam27/novyn-chat)<br/><sub>⚡ Real-time Socket.IO Chat App</sub> | `Dart` `Node.js` `Socket.IO` | `Real-Time` |
-| [🤖 **Lumi**](https://github.com/itsSatyam27/Lumi-Voice-Assist)<br/><sub>🎙️ AI Voice & Vision Assistant</sub> | `Python` `OpenCV` `AI/ML` | `AI & Vision` |
-| [📚 **Student Dashboard**](https://github.com/itsSatyam27/student-dashboard)<br/><sub>📊 Interactive Academic Management</sub> | `JavaScript` `CSS3` `DOM` | `Frontend` |
-| [⚡ **SkipQ**](https://github.com/itsSatyam27/SkipQ)<br/><sub>⏱️ Smart Queue Experience Engine</sub> | `JavaScript` `UI/UX` `Web` | `Product UX` |
-| [🧠 **Face Recognition AI**](https://github.com/itsSatyam27/FACE-Recog-with-AI)<br/><sub>👁️ Real-time Biometric Recognition</sub> | `Python` `OpenCV` `ML` | `Computer Vision` |
-
-<br/>
-
-> 💡 *"I don't just learn technologies. I turn ideas into working products."*
+<!-- 🚀 Featured Projects Showcase Card -->
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-projects.svg?v=9" alt="Featured Projects" width="100%"/>
 
 </td>
 </tr>
@@ -41,21 +30,21 @@
 
 ### 📊 GitHub & Coding Stats
 
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-stats.svg?v=8" alt="GitHub Stats" height="185"/>
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-langs.svg?v=8" alt="Top Languages" height="185"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-stats.svg?v=9" alt="GitHub Stats" height="185"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-langs.svg?v=9" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
 <!-- 🧩 Custom LeetCode Card & GitHub Streak in Matching Grid -->
 <a href="https://leetcode.com/u/bysatyam/">
-  <img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-leetcode.svg?v=8" alt="LeetCode Stats" height="185"/>
+  <img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-leetcode.svg?v=10" alt="LeetCode Stats" height="185"/>
 </a>
 <img src="https://streak-stats.demolab.com?user=itsSatyam27&theme=tokyonight&hide_border=true&background=0B1220&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak" height="185"/>
 
 <br/><br/>
 
 <!-- 🏆 Trophies -->
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-trophies.svg?v=8" alt="Trophies" width="95%"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-trophies.svg?v=9" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
