@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/97a31882ba4ac28695d42ba89fae31af63849976/profile/banner.svg?v=4" alt="Satyam Pandey — Software Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/banner.svg?v=7" alt="Satyam Pandey — Software Developer" width="100%"/>
 
 </div>
 
@@ -12,20 +12,20 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-lanyard.svg?v=2" alt="Satyam Pandey ID badge" width="330"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-lanyard.svg?v=7" alt="Satyam Pandey ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
 
-### 🚀 Selected Builds
+### 🚀 Featured Builds
 
-| 🔧 Project | 💻 Tech | ⭐ |
+| 🔧 Project | 💻 Tech | 🎯 Focus |
 |:---|:---:|:---:|
-| [💬 Novyn — Real-time Chat](https://github.com/itsSatyam27/novyn-chat) | `Dart` `Node.js` `Socket.IO` | 0 |
-| [🤖 Lumi — AI Voice Assistant](https://github.com/itsSatyam27/Lumi-Voice-Assist) | `Python` `OpenCV` `AI` | 0 |
-| [📚 Student Dashboard](https://github.com/itsSatyam27/student-dashboard) | `CSS` `JavaScript` | 0 |
-| [⚡ SkipQ — Queue Experience](https://github.com/itsSatyam27/SkipQ) | `JavaScript` `UX` | 0 |
-| [🧠 Face Recognition AI](https://github.com/itsSatyam27/FACE-Recog-with-AI) | `JavaScript` `AI` | 0 |
+| [💬 **Novyn** — Real-time Chat](https://github.com/itsSatyam27/novyn-chat) | `Dart` `Node.js` `Socket.IO` | `Real-time / Mobile` |
+| [🤖 **Lumi** — AI Voice Assistant](https://github.com/itsSatyam27/Lumi-Voice-Assist) | `Python` `OpenCV` `AI` | `AI / Computer Vision` |
+| [📚 **Student Dashboard**](https://github.com/itsSatyam27/student-dashboard) | `CSS` `JavaScript` `DOM` | `Frontend Web App` |
+| [⚡ **SkipQ** — Queue Experience](https://github.com/itsSatyam27/SkipQ) | `JavaScript` `UX` `UI` | `Product Experience` |
+| [🧠 **Face Recognition AI**](https://github.com/itsSatyam27/FACE-Recog-with-AI) | `Python` `JavaScript` `ML` | `Machine Learning` |
 
 <br/>
 
@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-langs.svg?v=2" alt="Top Languages" height="185"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-stats.svg?v=7" alt="GitHub Stats" height="185"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-langs.svg?v=7" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -56,7 +56,13 @@
 <br/><br/>
 
 <!-- 🏆 Trophies -->
-<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-trophies.svg?v=2" alt="Trophies" width="95%"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-trophies.svg?v=7" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Contribution Activity Snake
+
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/output/github-snake-cyan.svg" alt="Contribution Snake"/>
 
 <br/><br/>
 
@@ -71,6 +77,7 @@
 <a href="https://github.com/itsSatyam27"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://satyam-pandey27.web.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/itsSatyam27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/bytebysatyam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br/><br/>
 

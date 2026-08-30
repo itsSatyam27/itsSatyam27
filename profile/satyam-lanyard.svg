@@ -1,5 +1,5 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 660" width="420" height="660" role="img" aria-label="Satyam Pandey ID card lanyard">
-<title>Satyam Pandey â€” swinging ID badge</title>
+<title>Satyam Pandey — swinging ID badge</title>
 <defs>
 <style type="text/css"><![CDATA[
 text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
@@ -65,7 +65,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <path d="M191 -6 L229 -6 L226 236 L194 236 Z" fill="url(#strapg)"/>
     <line x1="196" y1="0" x2="198.5" y2="234" stroke="#fff" stroke-opacity=".45" stroke-width="1" stroke-dasharray="4 3"/>
     <line x1="224" y1="0" x2="221.5" y2="234" stroke="#fff" stroke-opacity=".45" stroke-width="1" stroke-dasharray="4 3"/>
-    <text x="0" y="0" font-size="10" font-weight="bold" fill="#fff" opacity=".85" letter-spacing="2" transform="translate(214,18) rotate(90)">SATYAM.DEV Â· BUILD Â· SHIP Â· REPEAT</text>
+    <text x="0" y="0" font-size="10" font-weight="bold" fill="#fff" opacity=".85" letter-spacing="2" transform="translate(214,18) rotate(90)">SATYAM.DEV · BUILD · SHIP · REPEAT</text>
   </g>
 
   <!-- Clasp + ring -->
@@ -106,7 +106,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
       <text x="244" y="552" font-size="10" fill="#818cf8" font-weight="bold">[ Python ]</text>
 
       <!-- status bar -->
-      <text x="102" y="574" font-size="9" fill="#475569">BUILD Â· DEBUG Â· LEARN Â· SHIP</text>
+      <text x="102" y="574" font-size="9" fill="#475569">BUILD · DEBUG · LEARN · SHIP</text>
       <text x="318" y="574" text-anchor="end" font-size="9" fill="#22d3ee">01 / 01</text>
 
       <!-- status dot -->
