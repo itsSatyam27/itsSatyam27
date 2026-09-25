@@ -1,61 +1,95 @@
-# Satyam Pandey
+# <span style="color:#55FF55">satyam@github</span>:~$ whoami
 
-**Computer Science & Engineering Student · Full-Stack Developer · Builder**
+**Satyam Pandey**  
+Computer Science & Engineering student · Full-Stack Developer · Builder
 
-B.Tech CSE student at **Silver Oak University**, focused on building practical web and mobile applications while strengthening my fundamentals in software engineering, DSA, cloud, and DevOps.
-
-I enjoy turning ideas into working products, learning how systems work under the hood, and improving through real projects.
+> `[INFO]` Building practical software, learning fundamentals, and shipping real projects.
 
 ---
 
-## What I'm working on
+## `~/about`
 
-- Building full-stack applications with **React, Node.js, Express, and databases**
-- Exploring **AI-assisted frontend development** and practical AI integrations
-- Strengthening **Java, DSA, backend development, and software engineering fundamentals**
-- Learning **cloud and DevOps** for production-ready applications
+```text
+user        : Satyam Pandey
+role        : CSE Student / Developer
+university  : Silver Oak University
+focus       : Full-Stack Development • DSA • Cloud • DevOps
+environment : Linux • Git • VS Code
+status      : building...
+```
 
-## Selected Projects
+## `~/projects`
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| **Novyn** | Real-time chat application with web and mobile support | React, Node.js, Socket.IO |
-| **StudyMate** | Study companion and social chat application | React Native, Expo, TypeScript |
-| **CampusGig** | Student-focused marketplace for campus services | React, Node.js, full-stack web |
-| **Student Dashboard** | Dashboard for subjects, tasks, notes, goals and productivity | JavaScript, Web APIs |
-| **Portfolio** | Personal developer portfolio and project showcase | React, Vite |
+| Project | What it is | Stack |
+|---|---|---|
+| `novyn` | Real-time chat application for web & mobile | React · Node.js · Socket.IO |
+| `studymate` | Study companion + social chat application | React Native · Expo · TypeScript |
+| `campusgig` | Student-focused marketplace | React · Node.js |
+| `student-dashboard` | Student productivity dashboard | JavaScript · Web APIs |
+| `portfolio` | Personal developer portfolio | React · Vite |
 
-## Tech Stack
+## `~/tech-stack`
 
-**Languages**  
-Java · Python · JavaScript · TypeScript
+```text
+LANGUAGES
+Java        Python        JavaScript        TypeScript
 
-**Frontend**  
-React · React Native · Vite · HTML · CSS
+FRONTEND
+React       React Native  Vite              HTML / CSS
 
-**Backend & Data**  
-Node.js · Express · Socket.IO · MongoDB · PostgreSQL · Firebase
+BACKEND
+Node.js     Express       Socket.IO
 
-**Tools & Platforms**  
-Git · GitHub · Docker · VS Code · Expo
+DATABASE
+MongoDB     PostgreSQL    Firebase
 
-## Currently Learning
+TOOLS
+Git         GitHub        Docker            Linux
+```
 
-**Data Structures & Algorithms · Full-Stack Development · Cloud · DevOps**
+## `~/learning`
 
-## GitHub Activity
+```text
+[████████████████░░░░] Full-Stack Development
+[████████████░░░░░░░░] Data Structures & Algorithms
+[████████░░░░░░░░░░░░] Cloud
+[██████░░░░░░░░░░░░░░] DevOps
+```
+
+## `~/github`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsSatyam27&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&text_color=CBD5E1&icon_color=818CF8" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSatyam27&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=CBD5E1" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsSatyam27&show_icons=true&hide_border=true&theme=transparent&title_color=55FF55&text_color=CBD5E1&icon_color=55FF55" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSatyam27&layout=compact&hide_border=true&theme=transparent&title_color=55FF55&text_color=CBD5E1" height="170" alt="Top languages"/>
 
 </div>
 
-## Connect
+## `~/connect`
 
-[GitHub](https://github.com/itsSatyam27) · [LinkedIn](https://www.linkedin.com/in/itsSatyam27) · [Portfolio](https://satyam-pandey27.web.app/) · [LeetCode](https://leetcode.com/u/bysatyam/)
+```text
+GitHub    -> github.com/itsSatyam27
+LinkedIn  -> linkedin.com/in/itsSatyam27
+Portfolio -> satyam-pandey27.web.app
+LeetCode  -> leetcode.com/u/bysatyam
+```
 
 ---
 
-> Building consistently, learning deeply, and shipping better software.
+```text
+┌──────────────────────────────────────────────────┐
+│  [✓] terminal ready                              │
+│  [✓] coffee loaded                               │
+│  [>] next project: compiling...                 │
+└──────────────────────────────────────────────────┘
+```
+
+**Keep building. Keep learning. Ship something useful.**
+
+<div align="center">
+
+`▰` `▰` `▰` `▰` `▰`
+
+*Linux-inspired • Pixel-inspired • Developer-focused*
+
+</div>
