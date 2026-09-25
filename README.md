@@ -1,61 +1,82 @@
-# Satyam Pandey
-
-**Computer Science & Engineering Student · Full-Stack Developer · Builder**
-
-B.Tech CSE student at **Silver Oak University**, focused on building practical web and mobile applications while strengthening my fundamentals in software engineering, DSA, cloud, and DevOps.
-
-I enjoy turning ideas into working products, learning how systems work under the hood, and improving through real projects.
-
----
-
-## What I'm working on
-
-- Building full-stack applications with **React, Node.js, Express, and databases**
-- Exploring **AI-assisted frontend development** and practical AI integrations
-- Strengthening **Java, DSA, backend development, and software engineering fundamentals**
-- Learning **cloud and DevOps** for production-ready applications
-
-## Selected Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| **Novyn** | Real-time chat application with web and mobile support | React, Node.js, Socket.IO |
-| **StudyMate** | Study companion and social chat application | React Native, Expo, TypeScript |
-| **CampusGig** | Student-focused marketplace for campus services | React, Node.js, full-stack web |
-| **Student Dashboard** | Dashboard for subjects, tasks, notes, goals and productivity | JavaScript, Web APIs |
-| **Portfolio** | Personal developer portfolio and project showcase | React, Vite |
-
-## Tech Stack
-
-**Languages**  
-Java · Python · JavaScript · TypeScript
-
-**Frontend**  
-React · React Native · Vite · HTML · CSS
-
-**Backend & Data**  
-Node.js · Express · Socket.IO · MongoDB · PostgreSQL · Firebase
-
-**Tools & Platforms**  
-Git · GitHub · Docker · VS Code · Expo
-
-## Currently Learning
-
-**Data Structures & Algorithms · Full-Stack Development · Cloud · DevOps**
-
-## GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsSatyam27&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&text_color=CBD5E1&icon_color=818CF8" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSatyam27&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=CBD5E1" height="170" alt="Top languages"/>
+<!-- ✨ Animated Banner ✨ -->
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/banner.svg?v=10" alt="Satyam Pandey — Software Developer" width="100%"/>
 
 </div>
 
-## Connect
+<br/>
 
-[GitHub](https://github.com/itsSatyam27) · [LinkedIn](https://www.linkedin.com/in/itsSatyam27) · [Portfolio](https://satyam-pandey27.web.app/) · [LeetCode](https://leetcode.com/u/bysatyam/)
+<table align="center" border="0" width="100%">
+<tr>
+<td width="36%" align="center" valign="middle">
 
----
+<!-- 🪪 Developer ID — avatar2 -->
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-lanyard.svg?v=1" alt="Satyam Pandey Developer ID" width="100%"/>
 
-> Building consistently, learning deeply, and shipping better software.
+</td>
+<td width="64%" align="center" valign="middle">
+
+<!-- 🚀 Static project showcase — reliable GitHub rendering -->
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-projects-static.svg?v=1" alt="Featured Projects" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub & Coding Stats
+
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-stats.svg?v=10" alt="GitHub Stats" height="185"/>
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-langs.svg?v=10" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/bysatyam/">
+  <img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-leetcode.svg?v=1" alt="LeetCode Stats" height="185"/>
+</a>
+<img src="https://streak-stats.demolab.com?user=itsSatyam27&theme=tokyonight&hide_border=true&background=0B1220&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak" height="185"/>
+
+<br/><br/>
+
+<!-- 🏆 Trophies -->
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/main/profile/satyam-trophies.svg?v=10" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Contribution Activity Snake
+
+<img src="https://raw.githubusercontent.com/itsSatyam27/itsSatyam27/output/github-snake-cyan.svg?v=1" alt="Contribution Snake"/>
+
+<br/><br/>
+
+### 🧩 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,nodejs,express,socketio,mongodb,postgresql,firebase,docker,git,github&perline=8" alt="Tech stack"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="https://github.com/itsSatyam27"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://satyam-pandey27.web.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/itsSatyam27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/bytebysatyam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://leetcode.com/u/bysatyam/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=itsSatyam27&color=4F46E5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⚡ Always learning. Always building.* 💙
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22D3EE,50:4F46E5,100:0B1220" width="100%"/>
+
+</div>
