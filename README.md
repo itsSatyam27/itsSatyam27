@@ -3,64 +3,94 @@
 # 🟩 SATYAM PANDEY
 ### `CSE Student` · `Full-Stack Developer` · `Builder`
 
-`linux terminal` × `pixel UI` × `developer workflow`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=55&section=header&text=SATYAM%40SILVEROAK%3A~%24&fontColor=55FF55&fontSize=22&fontAlignY=55" width="100%" alt="terminal header"/>
+
+**LINUX WORKSTATION**  `//`  **PIXEL INVENTORY**  `//`  **BUILD MODE**
 
 </div>
 
-<div align="center">
+## 🖥️ `player@silveroak:~$`
 
-🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
+<table>
+<tr>
+<td width="30%" align="center">
 
-**SYSTEM ONLINE**  •  **BUILDING MODE**  •  **LEARNING MODE**
+### 🧑‍💻 PLAYER
 
-</div>
+**SATYAM**
 
----
+`CSE • LVL 03`
 
-## 🖥️ `satyam@silveroak:~$`
+🟩 🟩 🟩 🟩 🟩
+
+`████████░░`
+
+**STATUS: ONLINE**
+
+</td>
+<td width="70%">
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│  USER        Satyam Pandey                              │
-│  ROLE        CSE Student / Full-Stack Developer         │
-│  UNIVERSITY  Silver Oak University                      │
-│  FOCUS       Full-Stack • DSA • Cloud • DevOps          │
-│  OS          Linux                                      │
-│  STATUS      ● ONLINE / BUILDING                        │
-└─────────────────────────────────────────────────────────┘
+$ whoami
+> Satyam Pandey
+
+$ cat role.txt
+> Computer Science & Engineering
+> Full-Stack Developer / Builder
+
+$ pwd
+> ~/developer
 ```
 
-> Building practical software while strengthening the fundamentals behind it.
+</td>
+</tr>
+</table>
 
 ## ⛏️ `~/projects`
 
 <table>
 <tr>
 <td width="50%">
-<h3>🟩 NOVYN</h3>
-<code>REAL-TIME CHAT</code><br><br>
-React · Node.js · Socket.IO<br>
-Web + mobile chat experience
+
+### 🟩 NOVYN
+`REAL-TIME CHAT`
+
+React · Node.js · Socket.IO
+
+Web + mobile chat application.
+
 </td>
 <td width="50%">
-<h3>🟦 STUDYMATE</h3>
-<code>STUDY COMPANION</code><br><br>
-React Native · Expo · TypeScript<br>
-Study tools + social chat
+
+### 🟦 STUDYMATE
+`STUDY COMPANION`
+
+React Native · Expo · TypeScript
+
+Study tools + social chat.
+
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3>🟨 CAMPUSGIG</h3>
-<code>STUDENT MARKETPLACE</code><br><br>
-React · Node.js<br>
-Student-focused marketplace
+
+### 🟨 CAMPUSGIG
+`STUDENT MARKETPLACE`
+
+React · Node.js
+
+Student-focused marketplace.
+
 </td>
 <td width="50%">
-<h3>🟪 PORTFOLIO</h3>
-<code>PERSONAL SITE</code><br><br>
-React · Vite<br>
-Personal developer portfolio
+
+### 🟪 PORTFOLIO
+`PERSONAL SITE`
+
+React · Vite
+
+Personal developer portfolio.
+
 </td>
 </tr>
 </table>
@@ -69,37 +99,29 @@ Personal developer portfolio
 
 <div align="center">
 
-| ◈ | TECHNOLOGY | ◈ | TECHNOLOGY |
-|---|---|---|---|
-| 🟩 | Java | 🟦 | JavaScript / TypeScript |
-| 🟨 | Python | 🟪 | React / React Native |
-| 🟧 | Node.js / Express | 🟥 | MongoDB / PostgreSQL |
-| ⬜ | Git / GitHub | 🟫 | Docker / Linux |
+`[ 🟩 Java ]` ` [ 🟨 Python ]` ` [ 🟦 JavaScript ]` ` [ 🟪 TypeScript ]`
+
+`[ 🟦 React ]` ` [ 🟪 React Native ]` ` [ 🟧 Node.js ]` ` [ 🟥 Express ]`
+
+`[ ⬜ MongoDB ]` ` [ 🟫 PostgreSQL ]` ` [ ⚙️ Git ]` ` [ 🐧 Linux ]`
 
 </div>
 
-## ⚡ `~/process`
+## ⚡ `~/quests`
 
-```text
-01  BUILD       ████████████████████  100%
-02  DEBUG       ████████████████░░░░   80%
-03  LEARN       █████████████████░░░   85%
-04  SHIP        ████████████░░░░░░░░   60%
-```
+<table>
+<tr><td>01</td><td><b>DSA</b></td><td>██████████████░░░░</td></tr>
+<tr><td>02</td><td><b>FULL-STACK</b></td><td>████████████████░░</td></tr>
+<tr><td>03</td><td><b>CLOUD</b></td><td>██████████░░░░░░░░</td></tr>
+<tr><td>04</td><td><b>DEVOPS</b></td><td>████████░░░░░░░░░░</td></tr>
+</table>
 
-**Current quests**
-
-- `DSA` → strengthen problem solving
-- `FULL-STACK` → build complete applications
-- `CLOUD` → learn deployment & infrastructure
-- `DEVOPS` → understand automation & CI/CD
-
-## 📊 `~/stats`
+## 📊 `~/system`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsSatyam27&show_icons=true&hide_border=true&bg_color=111827&title_color=55FF55&text_color=CBD5E1&icon_color=38BDF8" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSatyam27&layout=compact&hide_border=true&bg_color=111827&title_color=55FF55&text_color=CBD5E1" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsSatyam27&show_icons=true&hide_border=true&bg_color=0d1117&title_color=55FF55&text_color=CBD5E1&icon_color=38BDF8" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSatyam27&layout=compact&hide_border=true&bg_color=0d1117&title_color=55FF55&text_color=CBD5E1" height="165" alt="Top languages"/>
 
 </div>
 
@@ -107,22 +129,25 @@ Personal developer portfolio
 
 <div align="center">
 
-`[ GITHUB ]`   ` [ LINKEDIN ]`   ` [ PORTFOLIO ]`   ` [ LEETCODE ]`
+`GITHUB`  ·  `LINKEDIN`  ·  `PORTFOLIO`  ·  `LEETCODE`
 
 </div>
-
----
 
 <div align="center">
 
 ```text
-╔════════════════════════════════════════════════════╗
-║  🟩 TERMINAL READY                                ║
-║  > next command: build something useful           ║
-╚════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────┐
+│  $ git status                                            │
+│                                                          │
+│  ● learning DSA                                          │
+│  ● building full-stack apps                             │
+│  ● exploring cloud & DevOps                             │
+│                                                          │
+│  $ echo "Keep building."                                │
+└──────────────────────────────────────────────────────────┘
 ```
 
-**Build. Break. Debug. Repeat.**
+**BUILD. BREAK. DEBUG. REPEAT.**
 
 `🟩` `🟦` `🟪` `🟨` `⬛`
 
